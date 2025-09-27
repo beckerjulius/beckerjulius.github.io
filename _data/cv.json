@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "Julius Becker",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://beckerjulius.github.io",
+    "summary": "Currently studying Medical Technology at FAU Erlangen.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Erlangen",
+      "countryCode": "DE",
+      "region": "Bavaria"
     },
     "profiles": [
       {
@@ -25,38 +25,29 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "beckerjulius",
+        "url": "https://github.com/beckerjulius"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "FAU Erlangen",
+      "area": "M.Sc. Medizintechnik",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "startDate": "Oct 2024",
+      "endDate": "",
+      "gpa": 1.1,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Goethe Uni Frankfurt",
+      "area": "B.Sc. Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "04.2021",
+      "endDate": "10.2024",
+      "gpa": 1.7,
       "courses": []
     }
   ],
